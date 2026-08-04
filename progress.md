@@ -21,3 +21,10 @@ Status: Module 1 started
 -Practiced decision-making with age, score, temperature
 -Created and ran day3.js successfully
 Status: Module 1 continuing
+
+
+## Day 4 – 4 Aug 2026
+-Learned how to create and call functions
+-Practiced functions with parameters and return values
+-Created and ran day4.js successfully
+Status: Module 1 continuing
